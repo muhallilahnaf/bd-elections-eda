@@ -1,4 +1,12 @@
 seat,vote_diff_pc
+Gopalganj-3,90.09
+Gopalganj-2,85.18
+Gopalganj-1,75.37
+Bogra-7,51.12
+Rangpur-3,48.25
+Madaripur-2,47.7
+Bogra-6,41.34
+Madaripur-3,41.22
 Panchagarh-1,
 Panchagarh-2,
 Thakurgaon-1,
@@ -19,7 +27,6 @@ Lalmonirhat-2,
 Lalmonirhat-3,
 Rangpur-1,
 Rangpur-2,
-Rangpur-3,48.25
 Rangpur-4,
 Rangpur-5,
 Rangpur-6,
@@ -39,8 +46,6 @@ Bogra-2,
 Bogra-3,
 Bogra-4,
 Bogra-5,
-Bogra-6,41.34
-Bogra-7,51.12
 Chapai Nawabganj-1,
 Chapai Nawabganj-2,
 Chapai Nawabganj-3,
@@ -213,12 +218,7 @@ Faridpur-1,
 Faridpur-2,
 Faridpur-3,
 Faridpur-4,
-Gopalganj-1,75.37
-Gopalganj-2,85.18
-Gopalganj-3,90.09
 Madaripur-1,
-Madaripur-2,47.7
-Madaripur-3,41.22
 Shariatpur-1,
 Shariatpur-2,
 Shariatpur-3,
